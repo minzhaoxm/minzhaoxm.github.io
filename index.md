@@ -15,5 +15,5 @@
 </div>
 
 ### Selected Publications
-- J Shi, J Wu, X Fan, J Chen, L Chen, Z Xu, Min Zhao. Pediatric Clinical Decision Support Algorithm Based on Deep Neural Networks[J]. China Digital Medicine, 2018, 13(11): 32-34(in Chinese).
-- Y Shao, L Hong, J Chen, L Chen, X Fan, Z Xu, M Zhao, J Wu. Medicine Concomitant Modeling and Risk Evaluation Based on Knowledge Graph[J]. China Digital Medicine, 2018, 13(10): 39-41(in Chinese).
+- J Shi, J Wu, X Fan, J Chen, L Chen, Z Xu, M Zhao. [Pediatric Clinical Decision Support Algorithm Based on Deep Neural Networks[J]. China Digital Medicine](http://www.cnki.com.cn/Article/CJFDTotal-YISZ201811012.htm), 2018, 13(11): 32-34(in Chinese).
+- Y Shao, L Hong, J Chen, L Chen, X Fan, Z Xu, M Zhao, J Wu. [Medicine Concomitant Modeling and Risk Evaluation Based on Knowledge Graph](http://www.cnki.com.cn/Article/CJFDTOTAL-YISZ201810015.htm)[J]. China Digital Medicine, 2018, 13(10): 39-41(in Chinese).
